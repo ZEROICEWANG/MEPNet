@@ -1,1 +1,3 @@
 ./models
+models/pretrained/prior_query2_channel_last_L_attention_rm_SA/pretrain/model_199.pth
+models/RES_Model/standard/model.pth
