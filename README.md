@@ -60,5 +60,5 @@ Download the following datasets and unzip them into `../SOD_Data` folder
 
 - trained model: [Baidu](https://pan.baidu.com/s/1S_uwKUEUIoRMw-p9Ek28zA?pwd=6jyz) [Google](https://drive.google.com/file/d/1-2gtqk9M3Ex9Ou_YtOSFsQmvPWkcOySg/view?usp=sharing)
 
-full source code will be realised soon
+full source code will be released soon
 
